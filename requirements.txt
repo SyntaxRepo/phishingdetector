@@ -1,0 +1,6 @@
+Flask
+pandas
+numpy
+scikit-learn
+joblib
+gunicorn  # Add gunicorn for serving the Flask app on Render
