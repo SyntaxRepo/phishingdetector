@@ -3,4 +3,3 @@ scikit-learn
 pandas
 numpy
 gunicorn  <-- Make sure this line is present
-joblib
