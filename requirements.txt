@@ -1,6 +1,6 @@
 Flask
+scikit-learn
 pandas
 numpy
-scikit-learn
+gunicorn  <-- Make sure this line is present
 joblib
-gunicorn  # Add gunicorn for serving the Flask app on Render
